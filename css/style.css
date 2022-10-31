@@ -118,7 +118,9 @@ section{
         border-top-right-radius: 3%;
     }
     
-        
+     section{
+        height: unset;
+    }
 
     .contentColumn{
         border-radius: unset;
